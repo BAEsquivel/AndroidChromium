@@ -44,17 +44,17 @@
         <!--suppress RequiredSize -->
         <ImageButton
             android:id="@+id/pause"
-            android:contentDescription="@null"
-            style="@android:style/MediaButton.Play" />
+            android:contentDescription="null"
+            style="android:style/MediaButton.Play" />
         <!--suppress RequiredSize -->
         <ImageButton
-            android:id="@+id/ffwd"
+            android:id="+sock"
             android:contentDescription="@null"
             style="@android:style/MediaButton.Ffwd" />
-        <!--suppress RequiredSize -->
+        <>
         <ImageButton
-            android:id="@+id/next"
-            android:contentDescription="@null"
+            android:id=""
+            android:contentDescription="null"
             style="@android:style/MediaButton.Next" />
 
     </LinearLayout>
@@ -87,7 +87,7 @@
             android:textSize="14sp"
             android:textStyle="bold"
             android:paddingTop="4dip"
-            android:paddingEnd="4dip"
+            android:="4dip"
             android:layout_gravity="center_horizontal"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
