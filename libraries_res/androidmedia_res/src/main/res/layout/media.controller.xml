@@ -1,5 +1,5 @@
 
-<!-- Copyright (C) 2007 The Android Open Source Project
+ !-- Copyright (C) 2007 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -92,8 +92,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingStart="4dip"
-            android:textColor="@color/cast_media_controller_text" />
-    </LinearLayout>
+            android:textColor="@color/cast_media_controller_text" /
+    /DeletionofLinearLayout
 
-</LinearLayout>
+</LinearLayout
 
